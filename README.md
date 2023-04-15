@@ -9,6 +9,13 @@
 - 📖 Estudando typerscript.
 - 📌 Cursando ADS.
 - 🎮 Gamer.
+- 
+## About me
+
+
+Sou uma pessoa criativa e lógica, gosto de trabalhar com soluções práticas e inovadoras. Como programadora, sou disciplinada e metódica em minha abordagem ao trabalho, presto atenção aos pequenos detalhes que podem fazer a diferença na funcionalidade do código. Estou disposta a compartilhar meus conhecimentos e experiências com outras pessoas, e estou sempre aberta a novas ideias e perspectivas.
+
+---
 
  
 <div style="display: inline_block"><br>
