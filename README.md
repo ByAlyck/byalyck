@@ -1,6 +1,6 @@
 ## Hello world, eu sou a Alycia!
 
-![](https://github.com/Doc-McCoy/Doc-McCoy/blob/master/img/cyber.gif)
+
 
 ---
 
@@ -9,7 +9,7 @@
 - 📖 Estudando typerscript.
 - 📌 Cursando ADS.
 - 🎮 Gamer.
-- 
+ 
 ## About me
 
 
