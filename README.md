@@ -1,6 +1,5 @@
-## 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=993399&size=35&center=true&vCenter=true&width=1000&lines=𝗛𝗲𝗹𝗹𝗼+𝗪𝗼𝗿𝗹𝗱,+𝗕𝗲𝗺+-+𝘃𝗶𝗻𝗱𝗼+𝗮𝗼+𝗺𝗲𝘂+𝗚𝗶𝘁𝗛𝘂𝗯!)](https://git.io/typing-svg)
+## 𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱, 𝗯𝗲𝗺-𝘃𝗶𝗻𝗱𝗼 𝗮𝗼 𝗺𝗲𝘂 𝗚𝗶𝘁𝗛𝘂𝗯!
+![](https://github.com/Doc-McCoy/Doc-McCoy/blob/master/img/cyber.gif)
 
 ---
 
