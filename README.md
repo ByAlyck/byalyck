@@ -1,5 +1,6 @@
-## Hello world, eu sou a Alycia!
+## 
 
+#   <img src="https://github.com/<byalyck-no-github>/<seu-repositorio>/blob/main/assets/animated-title.gif" width="30px"> 𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱, 𝗲𝘂 𝘀𝗼𝘂 𝗮 𝗔𝗹𝘆𝗰𝗶𝗮! <img src="https://github.com/<seu-nome-de-usuario-no-github>/<seu-repositorio>/blob/main/assets/animated-title.gif" width="30px">
 ![](https://github.com/Doc-McCoy/Doc-McCoy/blob/master/img/cyber.gif)
 
 ---
