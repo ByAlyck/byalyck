@@ -1,10 +1,8 @@
 ## 
 
-#   <img src="https://github.com/<byalyck-no-github>/<seu-repositorio>/blob/main/assets/animated-title.gif" width="30px"> 𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱, 𝗲𝘂 𝘀𝗼𝘂 𝗮 𝗔𝗹𝘆𝗰𝗶𝗮! <img src="https://github.com/<seu-nome-de-usuario-no-github>/<seu-repositorio>/blob/main/assets/animated-title.gif" width="30px">
-![](https://github.com/Doc-McCoy/Doc-McCoy/blob/master/img/cyber.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=993399&size=35&center=true&vCenter=true&width=1000&lines=𝗛𝗲𝗹𝗹𝗼+𝗪𝗼𝗿𝗹𝗱,+𝗕𝗲𝗺+-+𝘃𝗶𝗻𝗱𝗼+𝗮𝗼+𝗺𝗲𝘂+𝗚𝗶𝘁𝗛𝘂𝗯!)](https://git.io/typing-svg)
 
 ---
-
 
 - 💻 Entusiasta por tecnologia.
 - 👩🏻‍💻 Desenvolvedora front-end.
@@ -14,7 +12,6 @@
 
  
 ## 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
-
 
 Sou uma pessoa criativa e lógica, gosto de trabalhar com soluções práticas e inovadoras. Como programadora, sou disciplinada e metódica em minha abordagem ao trabalho, presto atenção aos pequenos detalhes que podem fazer a diferença na funcionalidade do código. Estou disposta a compartilhar meus conhecimentos e experiências com outras pessoas, e estou sempre aberta a novas ideias e perspectivas.
 
