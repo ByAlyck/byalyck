@@ -13,13 +13,14 @@
 - 🎮 Gamer.
 
  
-## About me
+## 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 
 
 Sou uma pessoa criativa e lógica, gosto de trabalhar com soluções práticas e inovadoras. Como programadora, sou disciplinada e metódica em minha abordagem ao trabalho, presto atenção aos pequenos detalhes que podem fazer a diferença na funcionalidade do código. Estou disposta a compartilhar meus conhecimentos e experiências com outras pessoas, e estou sempre aberta a novas ideias e perspectivas.
 
 ---
 
+## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Alycia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,9 +29,10 @@ Sou uma pessoa criativa e lógica, gosto de trabalhar com soluções práticas e
   <img align="center" alt="Alycia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alycia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alycia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 </div>
   
-  ##
+  ## 𝗦𝗼𝗰𝗶𝗮𝗹 𝗺𝗲𝗱𝗶𝗮
  
 <div> 
   <a href="https://youtube.com/@byalyck6467" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -39,8 +41,7 @@ Sou uma pessoa criativa e lógica, gosto de trabalhar com soluções práticas e
   <a href="https://www.linkedin.com/in/alycia-ribeiro-5aa418245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
+ 
 <img src="https://media4.giphy.com/media/l2QE6znHVshMqR5ba/source.gif" width="300" height="200" /> ![](https://komarev.com/ghpvc/?username=byalycky&color=006bed)
 
 
