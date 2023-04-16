@@ -6,10 +6,12 @@
 ---
 
 
-- 💻 Desenvolvedora front-end.
+- 💻 Entusiasta por tecnologia.
+- 👩🏻‍💻 Desenvolvedora front-end.
 - 📖 Estudando typerscript.
 - 📌 Cursando ADS.
 - 🎮 Gamer.
+
  
 ## About me
 
