@@ -1,6 +1,5 @@
 ## 𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱, 𝘀𝗲𝗷𝗮 𝗯𝗲𝗺-𝘃𝗶𝗻𝗱𝗼 𝗮𝗼 𝗺𝗲𝘂 𝗚𝗶𝘁𝗛𝘂𝗯!
-![](https://github.com/Doc-McCoy/Doc-McCoy/blob/master/img/cyber.gif)
-
+![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)
 ---
 
 - 💻 Entusiasta por tecnologia.
