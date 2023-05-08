@@ -25,6 +25,8 @@ Sou uma pessoa criativa e lógica, gosto de trabalhar com soluções práticas e
   <img align="center" alt="Alycia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 </div>
+##
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlyck&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ## 𝗦𝗼𝗰𝗶𝗮𝗹 𝗺𝗲𝗱𝗶𝗮
  
