@@ -1,4 +1,4 @@
-## 𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱, 𝘀𝗲𝗷𝗮 𝗯𝗲𝗺-𝘃𝗶𝗻𝗱𝗼 𝗮𝗼 𝗺𝗲𝘂 𝗚𝗶𝘁𝗛𝘂𝗯!
+## 𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱, 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗶𝘁𝗛𝘂𝗯.
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)
 ---
 
@@ -17,14 +17,16 @@ Sou uma pessoa criativa e lógica, gosto de trabalhar com soluções práticas e
 ## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
  
 <div style="display: inline_block"><br>
+ <img align="center" alt="Alycia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alycia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alycia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Alycia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alycia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alycia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alycia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
+
 </div>
+
 
 ##
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlyck&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
