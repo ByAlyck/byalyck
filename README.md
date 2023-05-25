@@ -30,7 +30,9 @@ Sou uma pessoa criativa e lógica, gosto de trabalhar com soluções práticas e
 
 
 ##
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlyck&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlyck&theme=dracula&hide_langs_below=1" />
+</a>
   
   ## 𝗦𝗼𝗰𝗶𝗮𝗹 𝗺𝗲𝗱𝗶𝗮
  
