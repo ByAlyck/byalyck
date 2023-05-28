@@ -6,7 +6,7 @@
 - 👩🏻‍💻 Frontend developer.
 - 📖 Studying typescript.
 - 📌 Software engineering graduate.
-- 🎮 Gamer.
+
 
 ## 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 
