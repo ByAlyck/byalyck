@@ -6,6 +6,7 @@
 - 💻 Technology enthusiast.
 - 👩🏻‍💻 Frontend developer.
 - 📖 Studying typescript.
+- 💡Studying cybersecurity.
 
 
 
