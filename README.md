@@ -31,8 +31,12 @@ Sou uma pessoa criativa e lógica, gosto de trabalhar com soluções práticas e
 </div>
 
 ##
-  <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlyck&theme=dracula&hide_langs_below=1" />
+  <a href="https://github.com/ByAlyck">
+ <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ByAlyck&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
+ 
+ <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlyck&theme=dracula&hide_langs_below=1" />
+
+ 
 </a>
   
   ## 𝗦𝗼𝗰𝗶𝗮𝗹 𝗺𝗲𝗱𝗶𝗮
