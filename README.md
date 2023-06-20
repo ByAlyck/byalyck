@@ -5,7 +5,7 @@
 - 📌 Software engineering graduate.
 - 💻 Technology enthusiast.
 - 👩🏻‍💻 Frontend developer.
-- 📖 Studying typescript.
+- 📖 Studying typescript.....
 - 🔓 Studying cybersecurity.
 
 
