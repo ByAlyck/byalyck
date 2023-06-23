@@ -31,13 +31,8 @@ Sou uma pessoa criativa e lógica, gosto de trabalhar com soluções práticas e
 </div>
 
 ##
-  <a href="https://github.com/ByAlyck">
- <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ByAlyck&show_icons=true&theme=dracula&include_all_commit=true&count_private=true"/>
- 
- <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlyck&theme=dracula&hide_langs_below=1" />
-
- 
-</a>
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=ByAlyck&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByAlyck&theme=neon&hide_border=false"  width="400px" />
+  
   
   ## 𝗦𝗼𝗰𝗶𝗮𝗹 𝗺𝗲𝗱𝗶𝗮
  
