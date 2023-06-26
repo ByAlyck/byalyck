@@ -8,8 +8,6 @@
 - 📖 Studying typescript.
 - 🔓 Studying cybersecurity.
 
-
-
 ## 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 
 I am a creative and logical person who enjoys working with practical and innovative solutions. As a programmer, I am disciplined and methodical in my approach to work, paying attention to the small details that can make a difference in code functionality. I am willing to share my knowledge and experiences with others, and I am always open to new ideas and perspectives.
@@ -32,7 +30,6 @@ I am a creative and logical person who enjoys working with practical and innovat
 
 ##
   <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=ByAlyck&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByAlyck&theme=neon&hide_border=false"  width="400px" />
-  
   
   ## 𝗦𝗼𝗰𝗶𝗮𝗹 𝗺𝗲𝗱𝗶𝗮
  
