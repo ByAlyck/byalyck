@@ -28,6 +28,7 @@ I am a creative and logical person who enjoys working with practical and innovat
  <img align="center" alt="Alycia-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  
 </div>
+---
 
 ##
   <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=ByAlyck&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByAlyck&theme=neon&hide_border=false"  width="400px" />
