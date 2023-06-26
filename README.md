@@ -12,11 +12,11 @@
 
 ## 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 
-Sou uma pessoa criativa e lógica, gosto de trabalhar com soluções práticas e inovadoras. Como programadora, sou disciplinada e metódica em minha abordagem ao trabalho, presto atenção aos pequenos detalhes que podem fazer a diferença na funcionalidade do código. Estou disposta a compartilhar meus conhecimentos e experiências com outras pessoas, e estou sempre aberta a novas ideias e perspectivas.
+I am a creative and logical person who enjoys working with practical and innovative solutions. As a programmer, I am disciplined and methodical in my approach to work, paying attention to the small details that can make a difference in code functionality. I am willing to share my knowledge and experiences with others, and I am always open to new ideas and perspectives.
 
 ---
 
-## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
+## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀.
  
 <div style="display: inline_block"><br>
  <img align="center" alt="Alycia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
