@@ -39,7 +39,7 @@ I am a creative and logical person who enjoys working with practical and innovat
   <a href="https://instagram.com/alycia.heavenly?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:byalyck@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alycia-ribeiro-5aa418245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  mire
+  mir
 </div>
  
 <img src="https://media4.giphy.com/media/l2QE6znHVshMqR5ba/source.gif" width="300" height="200" /> ![](https://komarev.com/ghpvc/?username=byalycky&color=006bed)
