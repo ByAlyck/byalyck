@@ -42,7 +42,9 @@ I am a creative and logical person who enjoys working with practical and innovat
   
 </div>
  
-<img src="https://media4.giphy.com/media/l2QE6znHVshMqR5ba/source.gif" width="300" height="200" /> ![](https://komarev.com/ghpvc/?username=byalycky&color=006bed)
+<img src="https://steamuserimages-a.akamaihd.net/ugc/950714109397804223/31C55FC747EFA6EA80A84712FD0518761A52DE86/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300" height="200" /> 
+
+![](https://komarev.com/ghpvc/?username=byalycky&color=006bed)
  
 
 
