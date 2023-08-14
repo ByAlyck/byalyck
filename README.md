@@ -47,7 +47,7 @@ I am a creative and logical person who enjoys working with practical and innovat
 
 ![](https://komarev.com/ghpvc/?username=byalycky&color=006bed)
 
-.
+
 
 
 
