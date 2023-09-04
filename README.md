@@ -1,5 +1,5 @@
 ## 𝗛𝗶, 𝗜'𝗺 𝗔𝗹𝘆𝗰𝗶𝗮.
-![Imagem do WhatsApp de 2023-07-03 à(s) 17 28 39](https://github.com/ByAlyck/byalyck/assets/113322342/49671de0-4825-4df1-bfe2-5ea003a36cff)
+![Imagem](https://github.com/ByAlyck/byalyck/assets/113322342/49671de0-4825-4df1-bfe2-5ea003a36cff)
 
 
 ---
