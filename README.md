@@ -1,6 +1,6 @@
 ## 𝗛𝗶, 𝗜'𝗺 𝗔𝗹𝘆𝗰𝗶𝗮.
-![Imagem](https://github.com/ByAlyck/byalyck/assets/113322342/49671de0-4825-4df1-bfe2-5ea003a36cff)
 
+![IMAGE](https://github.com/ByAlyck/byalyck/assets/113322342/4284aff8-9367-4681-8835-ae52dd929389)
 
 ---
 
@@ -14,7 +14,6 @@
 
 I am a creative and logical person who enjoys working with practical and innovative solutions. As a programmer, I am disciplined and methodical in my approach to work, paying attention to the small details that can make a difference in code functionality. I am willing to share my knowledge and experiences with others, and I am always open to new ideas and perspectives.
 
----
 
 ## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀.
  
