@@ -13,7 +13,6 @@
 
 I am a creative and logical person who enjoys working with practical and innovative solutions. As a programmer, I am disciplined and methodical in my approach to work, paying attention to the small details that can make a difference in code functionality. I am willing to share my knowledge and experiences with others, and I am always open to new ideas and perspectives.
 
-
 ## 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀.
  
 <div style="display: inline_block"><br>
