@@ -7,7 +7,6 @@
 - 📌 Software engineering graduate.
 - 💻 Technology enthusiast. 
 - 👩🏻‍💻 Frontend developer.
-- 📖 Studying typescript.
 - 🔓 Studying cybersecurity.
 
 ## 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
