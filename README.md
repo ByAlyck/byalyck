@@ -4,7 +4,7 @@
 
 ---
 
-- 📌 Software engineering graduate.
+- 📌 Análise e Desenvolvimento de Sistemas.
 - 💻 Technology enthusiast. 
 - 👩🏻‍💻 Frontend developer.
 - 🔓 Studying cybersecurity.
