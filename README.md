@@ -26,7 +26,7 @@ I am a creative and logical person who enjoys working with practical and innovat
  <img align="center" alt="Alycia-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Alycia-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 <img align="center" alt="PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
-<img align="center" alt="Nmap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Nmap-logo.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40">
 
 
  
