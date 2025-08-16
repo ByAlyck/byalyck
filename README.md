@@ -1,4 +1,4 @@
-## 𝗛𝗶, 𝗜'𝗺 𝗔𝗹𝘆𝗰𝗶𝗮.
+## 0x4869
 
 ![IMAGE](https://github.com/ByAlyck/byalyck/assets/113322342/4284aff8-9367-4681-8835-ae52dd929389)
 
