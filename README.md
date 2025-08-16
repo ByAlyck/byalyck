@@ -7,7 +7,8 @@
 - 📌 Análise e Desenvolvimento de Sistemas.
 - 💻 Technology enthusiast. 
 - 👩🏻‍💻 Frontend developer.
-- 🔓 Studying cybersecurity.
+- 🔓 Cybersecurity.
+- 🌐 SOC & Blue Team.
 
 ## 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 
